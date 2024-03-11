@@ -2,7 +2,7 @@
 
 In this challenge we need to make a clone of the Nextjs conf ticket:
 
-(challenge.gif)
+(challenge.gif)![](challenge.gif)
 
 ## Challenging list
 
